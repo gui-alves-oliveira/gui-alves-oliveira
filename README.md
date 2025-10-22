@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @GuiAkuro
-- 👀 I'm interested in movies, games and doing some drawings
-- 🌱 I’m currently learning more about ux
+- 👋 Hi, I’m @gui-alves-oliveira
 
 <!---
 GuiAkuro/GuiAkuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
